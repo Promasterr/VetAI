@@ -1,7 +1,7 @@
 
 # VetAI - Veterinary AI Chatbot
 
-![VetAI Logo](https://your-logo-url.com) *(Replace with actual logo if available)*
+![VetAI Logo](https://github.com/Promasterr/VetAI/blob/main/logo.png) *(Replace with actual logo if available)*
 
 ## 📌 Overview
 VetAI is an AI-powered veterinary chatbot designed to assist in diagnosing animal diseases and answering pet-related queries. The chatbot leverages **Llama 3 ALOE Beta** developed by **HPAI-BSC** for conversational responses. LLama 3 ALOE is a fine-tuned version of LLama 3 8B on medical dataset. 
